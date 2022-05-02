@@ -9,5 +9,6 @@
 
 
 - ⚡ Fun fact: 
--  ![the-office-dwight-schrute](https://user-images.githubusercontent.com/11163520/166187579-8972181b-80b5-4314-bfa8-ece170719fc2.gif)
+- <img src="https://user-images.githubusercontent.com/11163520/166187579-8972181b-80b5-4314-bfa8-ece170719fc2.gif" width="400" height="250"/>
+<!-- -  ![the-office-dwight-schrute](https://user-images.githubusercontent.com/11163520/166187579-8972181b-80b5-4314-bfa8-ece170719fc2.gif) -->
 
