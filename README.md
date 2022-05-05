@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Quantum Computing...
 - 📫 How to reach me: srinathkprakash@gmail.com, [discord chat](https://discordapp.com/users/885803114324721684)
 
-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=srinathkp&show_icons=true)
+- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=srinathkp&show_icons=true&count_private=true)
 
 
 - ⚡ Fun fact: 
